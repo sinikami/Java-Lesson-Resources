@@ -1,4 +1,3 @@
-
 public class loopExamples {
 
 	public static void main(String[] args) {
@@ -154,10 +153,3 @@ public class loopExamples {
 		System.out.println("Done.ContinueWhileStatementExample.");
 	}
 }
-
-
-
-
-
-
-

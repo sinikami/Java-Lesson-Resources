@@ -1,8 +1,6 @@
 package study;
 
 public class loopExamples {
-
-
 	public void DoWhile() {// Do While example
 		int cnt = 0;
 		do {
@@ -142,12 +140,4 @@ public class loopExamples {
 		System.out.println("Done.ContinueWhileStatementExample.");
 	}
 }
-
-
-
-
-
-
-
-
-
+ 

@@ -1,17 +1,24 @@
 # Build and Release Folders
-bin/
-bin-debug/
-bin-release/
-[Oo]bj/ # FlashDevelop obj
-[Bb]in/ # FlashDevelop bin
+#bin/
+#bin-debug/
+#bin-release/
+#[Oo]bj/ # FlashDevelop obj
+#[Bb]in/ # FlashDevelop bin
 
 # Other files and folders
 .settings/
+<<<<<<< HEAD
 .git
 .gitignore
 .classpath
 .project
 .README.md
+=======
+.classpath
+.git
+.gitignore
+.project
+>>>>>>> develop
 # Executables
 *.swf
 *.air

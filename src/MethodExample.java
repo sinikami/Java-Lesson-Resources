@@ -1,6 +1,4 @@
-
 public class MethodExample {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int result;
@@ -116,10 +114,9 @@ public class MethodExample {
 			isBig = false;
 		}
 		System.out.println(isBig);
-		
+ 
 	}
 }
-
 
 
 

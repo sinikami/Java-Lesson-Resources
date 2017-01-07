@@ -1,11 +1,10 @@
 package study;
 import study.loopExamples;
-
+ 
 public class RunStudy {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		
+		// TODO Auto-generated method stub 
 		loopExamples Ex = new loopExamples();
 		// Ex.DoWhile();
 		// Ex.ForExample();
