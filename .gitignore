@@ -7,18 +7,7 @@
 
 # Other files and folders
 .settings/
-<<<<<<< HEAD
 .git
-.gitignore
-.classpath
-.project
-.README.md
-=======
-.classpath
-.git
-.gitignore
-.project
->>>>>>> develop
 # Executables
 *.swf
 *.air
