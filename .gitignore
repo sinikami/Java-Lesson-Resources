@@ -8,7 +8,7 @@
 # Other files and folders
 .settings/
 .git
-bin/
+bin/*
 .idea
 .project
 # Executables
