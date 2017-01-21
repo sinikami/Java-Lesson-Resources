@@ -9,6 +9,7 @@
 .settings/
 .git
 bin/*
+bin/*.class
 .idea
 .project
 # Executables
