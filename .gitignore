@@ -10,6 +10,7 @@
 .git
 bin/
 .idea
+.project
 # Executables
 *.swf
 *.air
