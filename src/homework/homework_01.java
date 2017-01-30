@@ -1,6 +1,6 @@
 package homework;
 
-public class lesson01 {
+public class homework_01 {
 
 	public void printNumbers() {// print numbers 10 to 1
 
