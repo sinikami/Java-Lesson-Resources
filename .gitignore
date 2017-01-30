@@ -8,10 +8,12 @@
 # Other files and folders
 .settings/
 .git
+bin
 bin/*
 bin/*.class
 .idea
 .project
+.DS_Store
 # Executables
 *.swf
 *.air
@@ -21,3 +23,7 @@ bin/*.class
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+/lessons.iml
+.rebel-remote.xml.bak
+javac-services.0.log
+src/rebel.xml
