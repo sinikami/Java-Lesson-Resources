@@ -31,6 +31,7 @@ public class print {
 
     public static void log(Object msg) {
         System.err.printf("%tc%n%s%n", new GregorianCalendar().getTimeInMillis(), msg.toString());
-        ;
+
+
     }
 }
