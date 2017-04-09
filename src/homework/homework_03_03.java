@@ -7,7 +7,7 @@ public class homework_03_03 {
     int width, height;
 
     homework_03_03(int width, int height) throws Exception {
-        if (width * height > 0) {
+        if (width >0 && height > 0) {
             this.width = width;
             this.height = height;
         } else {
